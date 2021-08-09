@@ -1,0 +1,17 @@
+.section {
+  display: flex;
+}
+.logo {
+  padding-top: 2rem;
+}
+.plan {
+  padding-top: 1rem;
+}
+#length {
+  margin-top: 1rem;
+}
+#change {
+  margin-left: 1.5rem;
+  margin-bottom: 2rem;
+  color: purple;
+}
